@@ -1,5 +1,5 @@
 
-Export PDF WP Plugin
+<b>Export PDF WP Plugin<b>
 Export PDF WP Plugin is a WordPress plugin that allows users to export their WordPress pages and posts as PDF documents. This plugin uses the mPDF library to generate PDFs.
 
 Features
